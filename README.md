@@ -74,7 +74,7 @@ Correct answer: пятница
 Press enter to continue...
 ```
 
-### Know what to improve
+### Know how to improve
 ```
 PhraseTrain | 'Test' (English -> Russian)
 -----------------------------------------
